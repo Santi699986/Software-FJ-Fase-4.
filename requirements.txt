@@ -1,0 +1,1 @@
+# No hay dependencias externas. Se utiliza únicamente la biblioteca estándar de Python.
